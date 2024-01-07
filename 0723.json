@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+"spider":"https://github.com/chenJBchen/TV/raw/main/0606.jar",
 
 "lives":[
 
@@ -7,7 +7,7 @@
     
 {
       "name": "live",
-      "url": "https://gitee.com/chen-jun-biao/tv/raw/master/live.txt",
+      "url": "https://raw.githubusercontent.com/chenJBchen/TV/main/live.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -16,7 +16,7 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY2hlbi1qdW4tYmlhby90di9yYXcvbWFzdGVyL2xpdmUudHh0"]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5KQmNoZW4vVFYvbWFpbi9saXZlLnR4dA=="]}]
     }],
 "sites":[
  {
